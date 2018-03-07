@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\My Code\Simple Student Classes Challenge\Simple Student Classes Challenge\obj\Debug\Simple Student Classes Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\Simple Student Classes Challenge\Simple Student Classes Challenge\obj\Debug\Simple Student Classes Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\Simple Student Classes Challenge\Simple Student Classes Challenge\bin\Simple Student Classes Challenge.dll.config
+C:\Users\Ethan\Documents\My Code\Simple Student Classes Challenge\Simple Student Classes Challenge\bin\Simple Student Classes Challenge.dll
+C:\Users\Ethan\Documents\My Code\Simple Student Classes Challenge\Simple Student Classes Challenge\bin\Simple Student Classes Challenge.pdb
+C:\Users\Ethan\Documents\My Code\Simple Student Classes Challenge\Simple Student Classes Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\Simple Student Classes Challenge\Simple Student Classes Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\Simple Student Classes Challenge\Simple Student Classes Challenge\obj\Debug\Simple Student Classes Challenge.dll
+C:\Users\Ethan\Documents\My Code\Simple Student Classes Challenge\Simple Student Classes Challenge\obj\Debug\Simple Student Classes Challenge.pdb
